@@ -6,7 +6,7 @@ Projeto ASTDialer
 
 ## Installation
 
-LAMP 
+LAMP<br> 
 Asterisk 
 
 ## Usage
